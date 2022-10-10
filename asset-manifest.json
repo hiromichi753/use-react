@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b24ea01.css",
+    "main.js": "/static/js/main.0ad9fe8e.js",
+    "static/media/HiGeen2.jpg": "/static/media/HiGeen2.13344651128f21b95afb.jpg",
+    "static/media/ruby.png": "/static/media/ruby.638d2e0c1b408c222ae2.png",
+    "static/media/react.png": "/static/media/react.4f81c715b2461a08b06a.png",
+    "static/media/python-logo-only.png": "/static/media/python-logo-only.632369df831d16241b59.png",
+    "static/media/go-logo_blue.png": "/static/media/go-logo_blue.6a3cd1884425f3b03c7d.png",
+    "index.html": "/index.html",
+    "main.5b24ea01.css.map": "/static/css/main.5b24ea01.css.map",
+    "main.0ad9fe8e.js.map": "/static/js/main.0ad9fe8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b24ea01.css",
+    "static/js/main.0ad9fe8e.js"
+  ]
+}
